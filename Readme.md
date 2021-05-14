@@ -25,7 +25,7 @@ https://gekko.wizb.it/
 
 https://medium.datadriveninvestor.com/
 
-maximizing-your-arbitrage-flash-loans-2cbb4c99ed80
+https://medium.datadriveninvestor.com/maximizing-your-arbitrage-flash-loans-2cbb4c99ed80
 
 
 ## APIs
